@@ -1,0 +1,24 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 15 May 2024 15:15:14 at https://writerzhub.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://writerzhub.com -O1 "C:\Users\chlorine ion\Desktop\website" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:16:52	Warning: 	File not parsed, looks like binary: https://writerzhub.com/assets/fonts/materialdesignicons-webfont1d2d.html?v=6.5.95
+15:16:52	Warning: 	Warning: store application/octet-stream without scan: C:/Users/chlorine ion/Desktop/website/writerzhub.com/assets/fonts/materialdesignicons-webfont1d2d1d2d.html
+15:16:52	Warning: 	File not parsed, looks like binary: https://writerzhub.com/assets/fonts/boxicons.html
+15:16:52	Warning: 	Warning: store application/octet-stream without scan: C:/Users/chlorine ion/Desktop/website/writerzhub.com/assets/fonts/boxicons.html
+15:16:54	Warning: 	File not parsed, looks like binary: https://writerzhub.com/assets/fonts/la-brands-400.html
+15:16:54	Warning: 	Warning: store application/octet-stream without scan: C:/Users/chlorine ion/Desktop/website/writerzhub.com/assets/fonts/la-brands-400.html
+15:16:55	Warning: 	File not parsed, looks like binary: https://writerzhub.com/assets/fonts/la-regular-400.html
+15:16:55	Warning: 	Warning: store application/octet-stream without scan: C:/Users/chlorine ion/Desktop/website/writerzhub.com/assets/fonts/la-regular-400.html
+15:16:55	Warning: 	File not parsed, looks like binary: https://writerzhub.com/assets/fonts/la-solid-900.html
+15:16:55	Warning: 	Warning: store application/octet-stream without scan: C:/Users/chlorine ion/Desktop/website/writerzhub.com/assets/fonts/la-solid-900.html
+15:16:57	Warning: 	File not parsed, looks like binary: https://writerzhub.com/assets/fonts/remixicondf6d.html?t=1590207869815
+15:16:57	Warning: 	Warning: store application/octet-stream without scan: C:/Users/chlorine ion/Desktop/website/writerzhub.com/assets/fonts/remixicondf6ddf6d.html
+15:17:06	Error: 	"Not Found" (404) at link https://writerzhub.com/index.html (from https://writerzhub.com/forgot)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 52 seconds : 74 links scanned, 72 files written (16362940 bytes overall) [8928336 bytes received at 79717 bytes/sec], 13263296 bytes transferred using HTTP compression in 48 files, ratio 43%, 2.7 requests per connection
+(1 errors, 12 warnings, 0 messages)
